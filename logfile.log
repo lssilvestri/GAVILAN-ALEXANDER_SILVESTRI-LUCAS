@@ -1,0 +1,10 @@
+[2024-08-13 20:29:47] [ INFO ] [OdontologoDaoH2:37] [guardar] Odontologo guardado: Odontologo{id=4, matricula='asdaw', nombre='Luciana', apellido='Gimenez'}
+[2024-08-13 20:29:47] [ INFO ] [OdontologoDaoH2:81] [buscarTodos] Odontologo encontrado: Odontologo{id=1, matricula='AE700OP', nombre='CRISTIAN', apellido='CRISTALDO'}
+[2024-08-13 20:29:47] [ INFO ] [OdontologoDaoH2:81] [buscarTodos] Odontologo encontrado: Odontologo{id=2, matricula='AE701OP', nombre='JESUS', apellido='NAVAS'}
+[2024-08-13 20:29:47] [ INFO ] [OdontologoDaoH2:81] [buscarTodos] Odontologo encontrado: Odontologo{id=3, matricula='AE702OP', nombre='FEDERICO', apellido='VALVERDE'}
+[2024-08-13 20:29:47] [ INFO ] [OdontologoDaoH2:81] [buscarTodos] Odontologo encontrado: Odontologo{id=4, matricula='asdaw', nombre='Luciana', apellido='Gimenez'}
+[2024-08-13 20:30:11] [ INFO ] [OdontologoDaoMemoria:18] [guardar] Odontologo guardado: Odontologo{id=1, matricula='ashdhas', nombre='carlos', apellido='perez'}
+[2024-08-13 20:30:11] [ INFO ] [OdontologoDaoMemoria:18] [guardar] Odontologo guardado: Odontologo{id=1, matricula='ae123', nombre='Juan', apellido='Gomez'}
+[2024-08-13 20:30:11] [ INFO ] [OdontologoDaoMemoria:18] [guardar] Odontologo guardado: Odontologo{id=2, matricula='rt456', nombre='Ana', apellido='Lopez'}
+[2024-08-13 20:30:11] [ INFO ] [OdontologoDaoMemoria:25] [buscarTodos] Odontologo encontrado: Odontologo{id=1, matricula='ae123', nombre='Juan', apellido='Gomez'}
+[2024-08-13 20:30:11] [ INFO ] [OdontologoDaoMemoria:25] [buscarTodos] Odontologo encontrado: Odontologo{id=2, matricula='rt456', nombre='Ana', apellido='Lopez'}
